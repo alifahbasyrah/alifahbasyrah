@@ -1,7 +1,7 @@
 
 
 <!-- Banner Header -->
-![Header](Neutral Modern Freelance Portfolio Banner.png)
+![Header](Neutral)
 
 # Hi there 👋
 
