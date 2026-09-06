@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!-- Banner Header -->
 ![Header](Neutral Modern Freelance Portfolio Banner.png)
